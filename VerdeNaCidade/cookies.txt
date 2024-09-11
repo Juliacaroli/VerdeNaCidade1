@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+juliacarolineponte.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1723154635|PzUwHl5oep4y
+juliacarolineponte.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+juliacarolineponte.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=42_g
+
